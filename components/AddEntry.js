@@ -10,7 +10,6 @@ import {
   getMetricMetaInfo,
   timeToString,
   getDailyReminderValue,
-  getDailyReminderValue,
   clearLocalNotification,
   setLocalNotification,
 } from '../utils/helpers';
