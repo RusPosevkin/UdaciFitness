@@ -19,3 +19,7 @@ A step-by-step tutorial by Udacity React Nanodegree Program.
   ```
 
 4. Open a browser and visit http://localhost:3000/
+
+## License
+
+[MIT](./LICENSE)
